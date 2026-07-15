@@ -11,7 +11,7 @@
 ### Run the following Commands in CloudShell
 
 ```bash
-curl -LO https://raw.githubusercontent.com/farishhzr/GoogleCloudSkillsboost/refs/heads/main/Analyze%20Findings%20with%20Security%20Command%20Center/faris.sh
+curl -LO https://raw.githubusercontent.com/farishhz/analyze-findings/main/faris.sh
 sudo chmod +x faris.sh
 ./faris.sh
 ```
